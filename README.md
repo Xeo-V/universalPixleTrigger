@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction) 🚀
-2. [Features](#features) 🌟
-3. [How the Features are Implemented](#how-the-features-are-implemented) 🔧
-    - [Color Picker](#color-picker)
-    - [Pixel Trigger](#pixel-trigger)
-    - [Color Aim Bot](#color-aim-bot)
-4. [Warning](#warning) ⚠️
-5. [How to Use](#how-to-use) 🛠
-    - [Color Picker](#color-picker-1)
-    - [Pixel Trigger](#pixel-trigger-1)
-    - [Color Aim Bot](#color-aim-bot-1)
-6. [Future Goals](#future-goals) 🚀
-7. [How to Download](#how-to-download) 📥
+1. [Introduction](#Introduction) 🚀
+2. [Features](#Features) 🌟
+3. [How the Features are Implemented](#How-the-Features-are-Implemented) 🔧
+    - [Color Picker](#Color-Picker)
+    - [Pixel Trigger](#Pixel-Trigger)
+    - [Color Aim Bot](#Color-Aim-Bot)
+4. [Warning](#Warning) ⚠️
+5. [How to Use](#How-to-Use) 🛠
+    - [Color Picker](#Color-Picker-1)
+    - [Pixel Trigger](#Pixel-Trigger-1)
+    - [Color Aim Bot](#Color-Aim-Bot-1)
+6. [Future Goals](#Future-Goals) 🚀
+7. [How to Download](#How-to-Hownload) 📥
 
 ## Introduction 🚀
 
